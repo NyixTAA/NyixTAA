@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198806857698/) 
-[![Discord](https://dcbadge.vercel.app/api/shield/781100440955256862)](discord://-/users/781100440955256862)
+[![Discord](https://dcbadge.vercel.app/api/shield/781100440955256862)](https://discord.com/invite/nyix.)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
