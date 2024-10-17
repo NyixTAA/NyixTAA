@@ -3,8 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198806857698/) 
-[![Discord](https://dcbadge.vercel.app/api/shield/781100440955256862)](https://discord.com/invite/781100440955256862)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198806857698/)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-%23E34F26.svg?style=flat&logo=blender&logoColor=white)
