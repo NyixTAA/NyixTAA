@@ -1,18 +1,53 @@
-# 💫 About Me:
-🔭 Estudante na Etec Professor Camargo Aranha<br>🌱 Cursando Desenvolvimento de Sistemas<br>
+<h1 align="center">Davi Ramos Silva
+  <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=750&pause=100&color=2E7FF4&center=true&random=false&width=435&lines=Harder;Better;Faster;Stronger" alt="Typing SVG" /></a>
+</h1>
+
+<p align="center">
+  Software Analysis and Development - ETEC Prof. Camargo Aranha📚
+  Computer Science - FIAP📚
+  <div align="center">
+    <a href="https://www.instagram.com/davi.rsil/">
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    </a>
+    <a href=""mailto:davi66119@gmail.com">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    </a>
+  </div>
+</p>
 
 
-## 🌐 Socials:
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198806857698/)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-%23E34F26.svg?style=flat&logo=blender&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NyixTAA&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NyixTAA&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NyixTAA&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NyixTAA&theme=transparent&mode=weekly&card_width=467)](https://git.io/streak-stats)
 
----
-[![](https://visitcount.itsvg.in/api?id=NyixTAA&icon=2&color=12)](https://visitcount.itsvg.in)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NyixTAA&theme=transparent&card_width=467)
+  
+</div>
+
+###
+
+<h2 align="center">🛠️Languages and Tools🛠️</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=blender" height="50" alt="blender logo" />
+  <img src="https://skillicons.dev/icons?i=reactnative" height="50" alt="reactnative logo" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+</div>
