@@ -24,8 +24,6 @@
 <div align="center">
   
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NyixTAA&theme=transparent&mode=weekly&card_width=467)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NyixTAA&theme=transparent&card_width=467)
   
 </div>
 
