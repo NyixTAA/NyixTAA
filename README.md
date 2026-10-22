@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=blender" height="50" alt="blender logo" />
-  <img src="https://skillicons.dev/icons?i=reactnative" height="50" alt="reactnative logo" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo" />
   <br />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
   <img width="20" />
