@@ -1,12 +1,13 @@
-<h1 align="center">Davi Ramos
+<h1>Davi Ramos
   <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=1500&pause=100&color=6a39c0&center=true&random=false&width=435&lines=Lights;Camera;Action;:)" alt="Typing SVG" /></a>
 </h1>
 
-<p align="center">
-  Software Analysis and Development - ETEC Prof. Camargo Aranha📚
+```text
+<p>
+  Software Analysis and Development - ETEC Prof. Camargo Aranha
   <br>
-  Computer Science - FIAP📚
+  Computer Science - FIAP
   <div align="center">
     <a href="https://www.instagram.com/davi.rsil/">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=f2e08f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -16,12 +17,13 @@
     </a>
   </div>
 </p>
+```
 
 
 
 ###
 
-<div align="center">
+<div>
   
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NyixTAA&theme=nightowl&mode=weekly&card_width=467)](https://git.io/streak-stats)
   
