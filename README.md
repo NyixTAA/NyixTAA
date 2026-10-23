@@ -1,6 +1,6 @@
 <h1 align="center">Davi Ramos Silva
   <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=750&pause=100&color=4632a8&center=true&random=false&width=435&lines=Harder;Better;Faster;Stronger" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=750&pause=100&color=6a39c08&center=true&random=false&width=435&lines=Harder;Better;Faster;Stronger" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 <div align="center">
   
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NyixTAA&theme=transparent&mode=weekly&card_width=467)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NyixTAA&theme=nightowl&mode=weekly&card_width=467)](https://git.io/streak-stats)
   
 </div>
 
