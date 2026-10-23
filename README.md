@@ -29,25 +29,24 @@
 
 ###
 
-<h2 align="center">🛠️Languages and Tools🛠️</h2>
+<h2 align="center">Languages and Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=blender" height="50" alt="blender logo" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  
+**Core**<br>
+![Python](https://img.shields.io/badge/-Python-e60012?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-e60012?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-e60012?style=for-the-badge&logo=javascript&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-e60012?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend / Design**<br>
+![HTML5](https://img.shields.io/badge/-HTML5-e60012?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-e60012?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-e60012?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-e60012?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+**Environment**<br>
+![Linux](https://img.shields.io/badge/-Linux-e60012?style=for-the-badge&logo=linux&logoColor=white)
+
+**Extras**<br>
+![Blender](https://img.shields.io/badge/-blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 </div>
