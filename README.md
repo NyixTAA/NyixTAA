@@ -33,20 +33,20 @@
 <div align="center">
   
 **Core**<br>
-![Python](https://img.shields.io/badge/-Python-e60012?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-e60012?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-e60012?style=for-the-badge&logo=javascript&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-e60012?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-6a39c0?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-6a39c0?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-6a39c0?style=for-the-badge&logo=javascript&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-6a39c0?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend / Design**<br>
-![HTML5](https://img.shields.io/badge/-HTML5-e60012?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-e60012?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-e60012?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-e60012?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-6a39c0?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-6a39c0?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-6a39c0?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-6a39c0?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 **Environment**<br>
-![Linux](https://img.shields.io/badge/-Linux-e60012?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-6a39c0?style=for-the-badge&logo=linux&logoColor=white)
 
 **Extras**<br>
-![Blender](https://img.shields.io/badge/-blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Blender](https://img.shields.io/badge/-blender-6a39c0?style=for-the-badge&logo=blender&logoColor=white)
 </div>
