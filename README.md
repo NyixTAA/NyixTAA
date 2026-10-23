@@ -1,6 +1,6 @@
-<h1 align="center">Davi Ramos Silva
+<h1 align="center">Davi Ramos
   <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=750&pause=100&color=6a39c0&center=true&random=false&width=435&lines=Harder;Better;Faster;Stronger" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=750&pause=100&color=6a39c0&center=true&random=false&width=435&lines=Lights;Camera;Action;:)" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
@@ -29,8 +29,7 @@
 
 ###
 
-<h2 align="center">Languages and Tools</h2>
-<div align="center">
+<h2>Languages and Tools</h2>
   
 **Core**<br>
 ![Python](https://img.shields.io/badge/-Python-6a39c0?style=for-the-badge&logo=python&logoColor=white)
