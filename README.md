@@ -1,8 +1,8 @@
-<h1>Davi Ramos
-  <br>
+<h1>
+Davi Ramos
+<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=1500&pause=300&color=6a39c0&center=false&random=false&width=435&lines=Lights;Camera;Action;:)" alt="Typing SVG" /></a>
 </h1>
-
 <p>
   Software Analysis and Development - ETEC Prof. Camargo Aranha
   <br>
