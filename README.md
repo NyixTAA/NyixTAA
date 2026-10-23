@@ -7,7 +7,7 @@
   Software Analysis and Development - ETEC Prof. Camargo Aranha
   <br>
   Computer Science - FIAP
-  <div align="center">
+  <div>
     <a href="https://www.instagram.com/davi.rsil/">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=f2e08f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
     </a>
