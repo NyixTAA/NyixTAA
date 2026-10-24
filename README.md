@@ -9,10 +9,10 @@ Davi Ramos
   Computer Science - FIAP
   <div>
     <a href="https://www.instagram.com/davi.rsil/">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=f2e08f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=f2e08f&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
     </a>
     <a href=""mailto:davi66119@gmail.com">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=f2e08f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=f2e08f&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
     </a>
   </div>
 </p>
