@@ -1,4 +1,3 @@
-<a href="https://ibb.co/jvrJQ6vc"><img src="https://i.ibb.co/XZCYK2Zh/image.png" alt="image" border="0"></a>
 <h1>
 Davi Ramos
 <br>
@@ -52,4 +51,3 @@ Davi Ramos
 **Extras**<br>
 ![Blender](https://img.shields.io/badge/-blender-6a39c0?style=for-the-badge&logo=blender&logoColor=white)
 </div>
-<a href="https://ibb.co/ycLfG0Km"><img src="https://i.ibb.co/Q3sbz9h7/image.png" alt="image" border="0"></a>
