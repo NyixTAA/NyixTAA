@@ -32,7 +32,7 @@ Davi Ramos
 
 ###
 
-<h2>Languages and Tools</h2>
+> <h2>Languages and Tools</h2>
   
 **Core**<br>
 ![Python](https://img.shields.io/badge/-Python-6a39c0?style=for-the-badge&logo=python&logoColor=white)
